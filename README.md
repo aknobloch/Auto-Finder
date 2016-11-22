@@ -1,7 +1,7 @@
 # Auto-Finder
 Created : April 2016
 
-This is an Android implementation of my Auto-Car-Search project, created in Android Studio.
+This is an Android implementation of my Car Finder project, created in Android Studio.
 
 This project was created while I was searching for a new car. I had a variety of personalized and complicated criterias for finding a car, but most notably the price and how long the vehicle had left on it's warranty.
 
