@@ -1,4 +1,4 @@
-# Auto-Finder
+# Car Finder
 Created : April 2016
 
 This is an Android implementation of my Car Finder project, created in Android Studio.
